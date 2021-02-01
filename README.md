@@ -1,2 +1,2 @@
 # hello_word
-Lagi belajar nih
+Lagi belajar nih ster
